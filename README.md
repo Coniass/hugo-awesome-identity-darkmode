@@ -34,13 +34,13 @@ $ hugo new site my-identity
 If your site is under version control using git, the easiest way to install this theme is to add it as a submodule. Inside the directory of your Hugo site, run the following command.
 
 ```bash
-$ git submodule add https://github.com/posquit0/hugo-awesome-identity themes/awesome-identity
+$ git submodule add https://github.com/Coniass/hugo-awesome-identity-darkmode themes/awesome-identity
 ```
 
 Alternatively, you can clone the theme into your project.
 
 ```bash
-$ git clone https://github.com/posquit0/hugo-awesome-identity themes/awesome-identity
+$ git clone https://github.com/Coniass/hugo-awesome-identity-darkmode themes/awesome-identity
 ```
 
 ### Configure Hugo
