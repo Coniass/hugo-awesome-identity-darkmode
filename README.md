@@ -7,7 +7,7 @@
 
 **Awesome Identity** is a single-page Hugo theme to introduce yourself. Add a portrait, an introduction, serveral links, and you're set.
 
-![Awesome Identity Screenshot](https://raw.githubusercontent.com/posquit0/hugo-awesome-identity/master/images/screenshot.png)
+![Awesome Identity Screenshot](https://raw.githubusercontent.com/Coniass/hugo-awesome-identity-darkmode/main/images/screenshot.png)
 
 
 ## Features
