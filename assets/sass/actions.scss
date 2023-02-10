@@ -2,6 +2,14 @@
   margin: 3em auto;
   text-align: center;
   font-size: 1rem;
+  
+a:link {
+  color: rgb(153, 153, 153);
+}
+
+a:visited {
+  color: rgb(153, 153, 153);
+}
 
   .action {
     position: relative;
@@ -35,6 +43,6 @@
     }
   }
   .action:hover {
-    color: lighten(black, 40%);
+    color: lighten(rgb(182, 38, 44), 10%);
   }
 }
